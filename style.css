@@ -1,0 +1,37 @@
+body,
+html {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-image: url('https://img.freepik.com/vetores-gratis/fundo-poligonal-realista_23-2148902684.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.formulario {
+  padding: 20px;
+  border: 1px solid white;
+  border-radius: 10px;
+  text-align: center;
+  margin: 20px;
+  background-color: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+}
+
+h1,
+label {
+  color: white;
+}
+
+body  {
+  height: 100%;
+  width: 100%;
+}
+
+#cidade1 {
+  background-color:transparent
+
+}
